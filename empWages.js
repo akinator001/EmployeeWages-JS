@@ -1,0 +1,1 @@
+console.log("Welcome again to employee wages. ")
